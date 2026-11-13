@@ -1,0 +1,13 @@
+nemoguardrails
+fastembed
+
+langchain
+langchain-core
+langchain-groq
+langchain-community
+langchain-text-splitters
+faiss-cpu
+
+streamlit
+python-dotenv
+nest-asyncio
